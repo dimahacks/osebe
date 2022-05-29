@@ -1,0 +1,27 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);    
+}
+
+.link-header {
+    font-size: 36px;
+    float: right;
+    color: rgb(0, 200, 200);
+}
+
+.link-nav {
+    color: cadetblue;
+}
+
+.link-nav1 {
+    color: cadetblue;
+    float: right;
+}
+
+.b {
+    font-size: 30px;
+    text-align: center;
+    color: goldenrod;
+}
